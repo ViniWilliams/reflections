@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Git will be able to keep track od the history of the files
+on that repository. We need to do it so we can access previous
+versions of our files, as seen in lesson 1.
+
